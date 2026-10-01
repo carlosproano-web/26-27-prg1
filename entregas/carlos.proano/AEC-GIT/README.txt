@@ -20,4 +20,18 @@ COMANDOS UTILIZADOS
 - git status
 - git commit
 - git push
-- git checkout -b
+- git checkout -
+
+Capturas y conclusiones:
+
+Durante la actividad se realizaron los siguientes pasos:
+- Creación de la estructura de carpetas.
+- Creación y seguimiento del archivo README.txt.
+- Creación del commit "docs: nuevo archivo".
+- Subida de los cambios a la rama main.
+- Creación de la rama docs/modificaciones.
+- Modificación y documentación del archivo README.txt.
+- Realización de varios commits en la nueva rama.
+
+Conclusión:
+Se practicó el flujo básico de trabajo con Git, incluyendo commits, ramas y subida de cambios al repositorio remoto.
