@@ -11,3 +11,13 @@ Pasos realizados hasta ahora:
 7. Realicé el commit "docs: nuevo archivo".
 8. Subí el commit a GitHub con git push origin main.
 9. Creé la rama docs/modificaciones.
+COMANDOS UTILIZADOS
+
+- git clone
+- mkdir
+- cd
+- git add
+- git status
+- git commit
+- git push
+- git checkout -b
